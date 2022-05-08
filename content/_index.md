@@ -2,4 +2,7 @@
 title: DavyQuartz
 ---
 
-хаха
+тут что-то намучу 
+
+
+- [All Notes](/notes)
