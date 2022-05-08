@@ -7,8 +7,12 @@
         "id": "41985ba5121ce1fd",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "content/_index.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "content/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +112,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "content/_index.md"
+              }
             }
           }
         ]
@@ -119,6 +126,7 @@
   },
   "active": "41985ba5121ce1fd",
   "lastOpenFiles": [
+    "content/_index.md",
     "_index.md",
     "notes/images/Pasted image 20220508140630.png",
     "notes/images/github-actions.png",
@@ -127,7 +135,6 @@
     "0inbox/obs настройка.md",
     "Untitled Kanban.md",
     "Trello.md",
-    "attach/long image 03-24-2022 07.41.33.jpg",
-    "0inbox/index.md"
+    "attach/long image 03-24-2022 07.41.33.jpg"
   ]
 }

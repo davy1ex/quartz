@@ -7,7 +7,7 @@
   "spellcheck": true,
   "showLineNumber": true,
   "newFileLocation": "folder",
-  "newFileFolderPath": "0inbox",
+  "newFileFolderPath": "content/notes",
   "trashOption": "local",
   "useMarkdownLinks": true,
   "defaultViewMode": "source",
