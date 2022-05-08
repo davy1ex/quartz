@@ -1,5 +1,5 @@
 ---
-title: 🪴 Quartz 42
+title: DavyQuartz
 ---
 
 хаха
