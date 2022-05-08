@@ -1,0 +1,28 @@
+{
+  "appData": {
+    "0inbox/temp.md": {
+      "ga5rnp": {
+        "headers": [
+          {
+            "id": "7e490c28-63fa-4f12-9e01-0bc9c7cc87d2",
+            "content": "Column 1",
+            "sortName": "default",
+            "width": "15rem",
+            "type": "text"
+          },
+          {
+            "id": "1fedcafb-cb46-43e2-820a-ef8fa5b5ffdf",
+            "content": "Column 1",
+            "sortName": "default",
+            "width": "15rem",
+            "type": "text"
+          }
+        ],
+        "rows": [],
+        "cells": [],
+        "tags": [],
+        "updateTime": 0
+      }
+    }
+  }
+}
