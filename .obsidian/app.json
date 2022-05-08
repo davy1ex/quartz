@@ -1,0 +1,24 @@
+{
+  "legacyEditor": false,
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "foldIndent": true,
+  "foldHeading": true,
+  "spellcheck": true,
+  "showLineNumber": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "0inbox",
+  "trashOption": "local",
+  "useMarkdownLinks": true,
+  "defaultViewMode": "source",
+  "attachmentFolderPath": "notes/images",
+  "showUnsupportedFiles": true,
+  "showFrontmatter": true,
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "newLinkFormat": "relative"
+}

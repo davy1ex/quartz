@@ -1,0 +1,133 @@
+{
+  "main": {
+    "id": "18bec4d55ff22e01",
+    "type": "split",
+    "children": [
+      {
+        "id": "41985ba5121ce1fd",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "643c3e22e8341eee",
+    "type": "split",
+    "children": [
+      {
+        "id": "aeb29de4c22abea9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4066f6bafd4371e0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "6553ca92afa7c360",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "хуярит",
+                "matchingCase": true,
+                "explainSearch": true,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 392
+  },
+  "right": {
+    "id": "36fad2839c16581e",
+    "type": "split",
+    "children": [
+      {
+        "id": "c2772d90be12ec88",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1d9435d7baa9c0bd",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "9dffc7a14b2e5d36",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {}
+            }
+          },
+          {
+            "id": "598a496436c16ae9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a9823d812a3b251f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "91e498a7fdac12e0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 372.5,
+    "collapsed": true
+  },
+  "active": "41985ba5121ce1fd",
+  "lastOpenFiles": [
+    "_index.md",
+    "notes/images/Pasted image 20220508140630.png",
+    "notes/images/github-actions.png",
+    "attach/Pasted image 20220508134840.png.md",
+    "Calendar/08-05-2022.md",
+    "0inbox/obs настройка.md",
+    "Untitled Kanban.md",
+    "Trello.md",
+    "attach/long image 03-24-2022 07.41.33.jpg",
+    "0inbox/index.md"
+  ]
+}

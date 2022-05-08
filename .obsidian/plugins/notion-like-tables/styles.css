@@ -1,0 +1,207 @@
+/* src/app/components/TagCell/styles.css */
+.NLT__tag-cell {
+  display: flex;
+  align-items: center;
+  padding: 4px 8px;
+  overflow: clip;
+}
+.NLT__tag {
+  display: flex;
+  align-items: center;
+  border-radius: 8px;
+  padding: 2px 8px;
+  width: fit-content;
+}
+.NLT__tag-content {
+  width: 100%;
+}
+.NLT__tag--red {
+  background-color: #ff6961;
+}
+.NLT__tag--yellow {
+  background-color: #faffc7;
+}
+.NLT__tag--orange {
+  background-color: #ffdfd3;
+}
+.NLT__tag--pink {
+  background-color: #fec8d8;
+}
+.NLT__tag--gray {
+  background-color: #cfcfc4;
+}
+.NLT__tag--purple {
+  background-color: #e0bbe4;
+}
+
+/* src/app/components/TagMenuContent/styles.css */
+.NLT__tag-menu-top {
+  display: flex;
+  background-color: rgba(0, 0, 0, 0.25);
+  padding: 4px 10px;
+}
+.NLT__tag-menu-bottom {
+  min-height: 100px;
+  padding: 4px 10px;
+}
+.NLT__tag-menu-text {
+  font-size: 0.85rem;
+  margin: 5px 0px;
+  width: 100%;
+}
+.NLT__tag-menu-input {
+  background-color: transparent !important;
+  border: 0 !important;
+}
+
+/* src/app/components/EditableTd/styles.css */
+.NLT__td {
+  position: relative;
+  vertical-align: top;
+  height: 2rem;
+  cursor: default;
+}
+.NLT__td--number {
+  text-align: right;
+}
+
+/* src/app/components/Table/styles.css */
+.NLT__th {
+  text-align: left;
+}
+.NLT__th:last-child {
+  border: 0 !important;
+}
+tbody > tr > .NLT__td:last-child {
+  border: 0 !important;
+  vertical-align: middle;
+}
+tfoot > tr > .NLT__td {
+  border: 0 !important;
+}
+
+/* src/app/components/IconText/styles.css */
+.NLT__icon-text {
+  display: flex;
+  align-items: center;
+}
+.NLT__icon-text > p {
+  margin: 0;
+}
+
+/* src/app/components/DragMenu/styles.css */
+.NLT__drag-menu-container {
+  width: 180px;
+  font-size: 0.9rem;
+}
+
+/* src/app/components/HeaderMenu/styles.css */
+.NLT__header-menu-container {
+  padding: 4px 10px;
+  cursor: default;
+}
+.NLT__header-menu-ul {
+  padding: 0;
+  margin: 0;
+}
+.NLT__header-menu-header {
+  font-size: 0.8rem;
+  margin-top: 0.5rem;
+}
+.NLT__header-menu-item {
+  font-size: 0.9rem;
+  display: flex;
+  align-items: center;
+  padding: 0;
+  margin: 0;
+}
+
+/* src/app/components/EditableTh/styles.css */
+.NLT__header-content {
+  margin-right: 5px;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+
+/* src/app/app.css */
+.NLT__error {
+  color: red;
+}
+.NLT__app {
+  overflow: auto;
+}
+.NLT__button {
+  padding: 4px !important;
+}
+.NLT__button--sm {
+  width: 50px;
+}
+.NLT__button--reset {
+  padding: 0;
+  border: 0;
+  margin: 0;
+}
+.NLT__icon--selectable:hover {
+  border-radius: 4px;
+  box-shadow: 0px 0px 0px 2px rgba(0, 0, 0, 0.2);
+}
+.NLT__icon--md {
+  width: 1rem !important;
+  height: 1rem !important;
+}
+.NLT__hidden-textarea {
+  position: absolute;
+  cursor: default;
+  z-index: var(--layer-cover);
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  border: 0;
+  opacity: 0;
+}
+.NLT__selectable {
+  cursor: pointer;
+}
+.NLT__selectable:hover {
+  background-color: var(--interactive-hover);
+}
+.NLT__selected {
+  background-color: var(--interactive-normal);
+}
+.NLT__margin-right {
+  margin-right: 4px;
+}
+.NLT__margin-left {
+  margin-left: 4px;
+}
+.NLT__hidden-column {
+  border: 0 !important;
+  width: 50px;
+}
+.NLT__p {
+  margin: 0;
+}
+.NLT__input {
+  height: 100%;
+  width: 100%;
+  padding: 4px 10px !important;
+  border: 0 !important;
+}
+.NLT__input--number {
+  text-align: right;
+}
+.NLT__clickable {
+  position: relative;
+}
+.NLT__menu {
+  position: absolute;
+  padding: 0 !important;
+  border-radius: 4px;
+  font-weight: 400;
+  background-color: var(--background-primary);
+  border: 1px solid var(--background-modifier-border);
+  box-shadow: 0 2px 8px var(--background-modifier-box-shadow);
+  z-index: var(--layer-menu);
+}
