@@ -1,2 +1,8 @@
-
 static/icon.png
+screenshot.png
+content/attach/Pasted image 20220508140118.png
+content/notes/images/github-actions.png
+content/notes/images/github-pages.png
+content/notes/images/google-domains.png
+content/notes/images/obsidian-settings.png
+content/notes/images/patrik.png
